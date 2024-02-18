@@ -16,18 +16,18 @@ Next, download the [gligen_sd14_textbox_pruned.safetensors](https://huggingface.
 
 ## Install
 
-Clone this repository_
+Clone this repository.
 
     git clone https://github.com/MackinationsAi/gligen-gui_dark.git
-    cd gligen-gui
+    cd gligen-gui/gligen_gui
     
-Now you are going to want to create a Virtual Environment_
+Now you are going to want to create a Virtual Environment.
 
     python -m venv venv
     venv/Scripts/activate
     pip install flask
 
-Then to start the GUI, double click on the gligenBoot_.bat (this will only work if you have ComfyUi already running in the background).
+You are now ready to start the GUI, double click on the gligenBoot_.bat (this will only work if you have ComfyUi already running in the background).
 
 Note that this assumes your ComfyUI instance is using port 8188. If not, replace 8188 with the correct port number.
 
@@ -42,3 +42,7 @@ You can further describe your image in the text input labelled **POSITIVE** but 
 If there are any LORAs you wish to use, press the **+** button in the LORA section. Then, select the name of the LORA and adjust its strength, You can add mulitple LORAs.
 
 Finally, press the Queue Prompt to submit the prompt to ComfyUI. Once the image is generated, it will appear on the canvas.
+
+## Cred
+
+This is my DARK fork version of mut-ex's great work. The original repo is [here](https://github.com/mut-ex/gligen-gui).
