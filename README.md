@@ -45,4 +45,4 @@ Finally, press the Queue Prompt to submit the prompt to ComfyUI. Once the image 
 
 ## Cred
 
-This is my DARK fork version of mut-ex's great work. The original repo is [here](https://github.com/mut-ex/gligen-gui).
+This is my DARK forked version of mut-ex's great work. The original repo can be found [here](https://github.com/mut-ex/gligen-gui).
