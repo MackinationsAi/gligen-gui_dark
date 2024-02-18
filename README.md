@@ -10,8 +10,7 @@ If you would like to show your appreciation for this project,<br>please consider
 
 ![GLIGEN GUI screenshot](gligen_gui/docs/latest.png)
 
-![GLIGEN Example Image](example_boxes.png)
-![GLIGEN Example Image](example.png)
+![GLIGEN Example Image](gligen_gui/docs/example.png)
 
 ## Getting Started
 
