@@ -9,7 +9,6 @@ If you would like to show your appreciation for this project,<br>please consider
 [GLIGEN](https://gligen.github.io/) is a novel way to specify the precise location of objects in text-to-image models. I present here an intuitive GUI that makes it significantly easier to use GLIGEN with ComfyUI.
 
 ![GLIGEN GUI screenshot](gligen_gui/docs/latest.png)
-
 ![GLIGEN Example Image](gligen_gui/docs/example.png)
 
 ## Getting Started
