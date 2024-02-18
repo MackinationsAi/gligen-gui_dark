@@ -5,6 +5,7 @@
 ![GLIGEN GUI screenshot](gligen_gui/docs/latest.png)
 
 ![GLIGEN Example Image](gligen_gui/docs/example.png)
+
 ![GLIGEN Example Image](gligen_gui/docs/example_w-Boxes.png)
 
 ## Getting Started
