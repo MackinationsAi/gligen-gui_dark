@@ -24,7 +24,7 @@ Clone this repository.
 Now you are going to want to create a Virtual Environment.
 
     python -m venv venv
-    venv/Scripts/activate
+    venv\Scripts\activate
     pip install flask
 
 You are now ready to start the GUI, double click on the gligenBoot_.bat (this will only work if you have ComfyUi already running in the background).
