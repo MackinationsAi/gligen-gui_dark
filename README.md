@@ -18,7 +18,7 @@ Next, download the [gligen_sd14_textbox_pruned.safetensors](https://huggingface.
 
 Clone this repository_
 
-    git clone [https://github.com/mut-ex/gligen-gui.git](https://github.com/MackinationsAi/gligen-gui_dark.git)
+    git clone https://github.com/MackinationsAi/gligen-gui_dark.git
     cd gligen-gui
     
 Now you are going to want to create a Virtual Environment_
