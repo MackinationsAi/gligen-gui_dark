@@ -2,11 +2,11 @@
 
 [GLIGEN](https://gligen.github.io/) is a novel way to specify the precise location of objects in text-to-image models. I present here an intuitive DARK GUI that makes it significantly easier to use GLIGEN with ComfyUI.
 
-
+![GLIGEN Example Image](gligen_gui/docs/example_w-Boxes.png)
 
 ![GLIGEN Example Image](gligen_gui/docs/example.png)
 
-![GLIGEN Example Image](gligen_gui/docs/example_w-Boxes.png)
+![GLIGEN GUI screenshot](gligen_gui/docs/latest.png)
 
 ## Getting Started
 
@@ -46,3 +46,4 @@ Finally, press the Queue Prompt to submit the prompt to ComfyUI. Once the image 
 ## Cred
 
 This is my DARK forked version of mut-ex's great work. The original repo can be found [here](https://github.com/mut-ex/gligen-gui).
+(My primary coding language is Python so these edits are quick & dirty, if you all like the changes enough perhaps mut-ex & I can partner up on future versions!)
