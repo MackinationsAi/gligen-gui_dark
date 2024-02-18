@@ -26,15 +26,15 @@
   font-family: "Inter", "Segoe UI", sans-serif;
   font-size: medium;
   font-weight: 400;
-  --color-0: #fffcf2;
-  --color-1: #cfdbd5;
-  --color-2: #e8eddf;
-  --color-3: #b8b8ff;
-  --color-4: #242423;
-  --color-5: #333533;
-  --color-6: #f5cb5c;
-  --color-7: #80ed99;
-  background-color: #e8eddf;
+  --color-0: #1a1a1a;
+  --color-1: #91d9b5;
+  --color-2: #e6ecdb;
+  --color-3: #4f40ab;
+  --color-4: #2d2d2a;
+  --color-5: #272d27;
+  --color-6: #f7f2e6;
+  --color-7: #27c2ff;
+  background-color: #1b1920;
   --animate-duration: 0.4s;
 }
 
@@ -48,7 +48,7 @@ footer {
   padding-top: 1rem;
   width: 100%;
   font-weight: 600;
-  color: var(--color-5);
+  color: var(--color-2);
 }
 
 .dropdown {
@@ -64,7 +64,7 @@ footer {
 select {
   cursor: pointer;
   font-family: "Inter", "Segoe UI", sans-serif;
-  font-size: medium;
+  font-size: small;
   font-weight: 400;
   background-color: var(--color-3);
   width: 100%;
@@ -96,7 +96,7 @@ main {
 button,
 .filepicker-button {
   font-family: "Inter", "Segoe UI", sans-serif;
-  color: var(--color-4);
+  color: var(--color-2);
   background: var(--color-3);
   /* word-spacing: 0px; */
   border-radius: 4px;
@@ -220,7 +220,7 @@ legend {
   background-color: var(--color-6);
   border-radius: 3px;
   color: var(--color-5);
-  font-size: medium;
+  font-size: small;
   font-variant: small-caps;
   font-weight: 600;
   letter-spacing: 0.05rem;
@@ -237,7 +237,7 @@ input[type="file"] {
   box-shadow: rgba(0, 0, 0, 0.19) 0 10px 20px, rgba(0, 0, 0, 0.23) 0 6px 6px;
   background-color: var(--color-3);
   border-radius: 3px;
-  color: var(--color-4);
+  color: var(--color-2);
   letter-spacing: 0.025rem;
 }
 
@@ -254,11 +254,11 @@ input[type="file"] {
 }
 
 .standout-text {
-  color: var(--color-6);
+  color: var(--color-2);
 }
 
 .dropdown-option:hover .standout-text {
-  color: var(--color-4);
+  color: var(--color-5);
 }
 
 .label-textarea {
@@ -289,11 +289,11 @@ label {
 input,
 textarea {
   border-radius: 3px;
-  background: var(--color-0);
+  background: var(--color-5);
   border: 2px solid var(--color-1);
   font-size: 1rem;
   padding: 0.25rem;
-  color: var(--color-4);
+  color: var(--color-2);
   box-shadow: none;
   outline: none;
   flex: 0 1 auto;
@@ -312,7 +312,7 @@ textarea {
 }
 
 input:focus {
-  background-color: var(--color-2);
+  background-color: var(--color-5);
   border: 2px solid var(--color-3);
 }
 
